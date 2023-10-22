@@ -46,7 +46,7 @@ export default function AgentsPage() {
           <span className="ml-2">
             This template is open source - you can see the source code and
             deploy your own version{" "}
-            <a href="https://github.com/jayshiai" target="_blank">
+            <a href="https://github.com/jayshiai/EduBud" target="_blank">
               from the GitHub repo
             </a>
             !
