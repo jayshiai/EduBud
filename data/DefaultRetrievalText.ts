@@ -1,1 +1,1 @@
-export default "Enter you notes!!";
+export default "Enter you notes!";
